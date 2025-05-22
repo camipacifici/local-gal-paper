@@ -58,4 +58,4 @@ median of the stellar mass in the previous file...sorry...)
 - `lbtz` lookback time in Gyr at the redshift of observation
 - `tq1` lookback time in Gyr at which the galaxy reaches quiescence for the first time
 - `tqf` lookback time in Gyr at which the galaxy reaches quiescence for good
-- `logM_tq` logarith of the stellar mass in solar masses when the galaxy reaches quiescence
+- `logM_tq` logarithm of the stellar mass in solar masses when the galaxy reaches quiescence
