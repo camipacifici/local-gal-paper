@@ -20,7 +20,7 @@ It contains:
 - AB magnitudes and uncertainties in WISE channel 1 (columns `W1`, `eW1`),
 - the magnitude correction for WISE channel 1 (column `dm`),
 - the aperture in arcseconds (column `aptarc`),
-- a flag (column 'flgO').
+- a flag (column `flgO`).
 
 ## [Catalog of physical parameters](https://www.dropbox.com/scl/fi/2cpt0utjc5pcsfn5ndlxi/mederr_mist_phot_v5.dat?rlkey=r3pz404g3iolbkzx32qa2m04v&dl=0)
 
