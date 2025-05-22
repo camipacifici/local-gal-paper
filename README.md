@@ -43,10 +43,10 @@ for the following parameters:
 This file can be parsed with `pandas.read_csv`.
 
 It contains the parameters derived from the best-estimate star formation histories:
-- `t_form` lookback time of first stars formed in Gyr
-- `t_10` lookback time at which the galaxy reaches 10% of the total stellar mass formed
-- `t_50` lookback time at which the galaxy reaches 50% of the total stellar mass formed
-- `t_90` lookback time at which the galaxy reaches 90% of the total stellar mass formed
+- `t_form` lookback time in Gyr of first stars formed
+- `t_10` lookback time in Gyr at which the galaxy reaches 10% of the total stellar mass formed
+- `t_50` lookback time in Gyr at which the galaxy reaches 50% of the total stellar mass formed
+- `t_90` lookback time in Gyr at which the galaxy reaches 90% of the total stellar mass formed
 - `SFR_10` star formation rate in solar masses per year at t_10
 - `SFR_50` star formation rate in solar masses per year at t_50
 - `SFR_90` star formation rate in solar masses per year at t_90
