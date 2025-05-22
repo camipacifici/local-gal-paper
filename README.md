@@ -36,7 +36,7 @@ for the following parameters:
 - `logAGE` logarithm of the light-weighted age in years,
 - `col1` rest-frame dust-corrected NUV − g color,
 - `col2` rest-frame dust-corrected g - i color,
-- `logML` logarithm of the mast to light ratio.
+- `logML` logarithm of the mass to light ratio.
 
 ## [Catalog of timescales](https://www.dropbox.com/scl/fi/3p1711u1ax36he0gvjxwq/timescales_mist_phot_v5.dat?rlkey=19xoj3zulohqprya2afl4oqfp&dl=0)
 
